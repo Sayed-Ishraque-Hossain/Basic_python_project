@@ -1,5 +1,5 @@
 print("ASCII art basic python project: Block Letters.")
-
+print('For this project I printed out my initials in block letters.")
 
 
 
